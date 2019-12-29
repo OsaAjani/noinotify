@@ -1,5 +1,5 @@
 # noinotify
-usage: noinotify.py [-h] [--dir DIR] [--on ON] [--command COMMAND]
+```usage: noinotify.py [-h] [--dir DIR] [--on ON] [--command COMMAND]
 
 optional arguments:
   -h, --help         show this help message and exit
@@ -8,3 +8,4 @@ optional arguments:
                      Types : ALL,CREATE,DELETE
   --command COMMAND  Command to run on event type detection. Use flags ::file
                      and ::change to get filepath and change type event.
+```
